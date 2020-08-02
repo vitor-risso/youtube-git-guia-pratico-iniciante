@@ -6,6 +6,8 @@ Guia prático para iniciantes.
 
 https://git-scm.com/download
 
+Se estiber em uma distribuição linux derivada do Debian, como o Ubuntu e Linux mint digite `sudo apt install git`
+
 # SCENES
 
 - [x] Você deseja criar pontos na história da produção do seu projeto
