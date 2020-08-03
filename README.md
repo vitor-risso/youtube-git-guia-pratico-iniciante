@@ -42,3 +42,4 @@ Se estiber em uma distribuição linux derivada do Debian, como o Ubuntu e Linux
 * `git push` // envia alterações locais para o repositório remoto
 * `git clone {url_do_repositório}` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
+* `git remote rm origin` // para remover a ligação entre o repositório local e o remoto, podendno assim trocar a url de destino
